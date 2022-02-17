@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b290b4d4-9d10-46e0-a89f-61f4a4b89466}</ProjectGuid>
-    <RootNamespace>My04ListOfANumber</RootNamespace>
+    <ProjectGuid>{b59dcd70-7c85-48d2-83aa-01833084579c}</ProjectGuid>
+    <RootNamespace>My04LastDigitOfNumber</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>04.LastDigitOfNumber</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

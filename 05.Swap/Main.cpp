@@ -1,11 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
 
-void SwapSTL(int a, int b)
-{
-	swap(a, b);
-}
-
 void SwapRef(int &a, int &b)
 {
 	int temp = a;
