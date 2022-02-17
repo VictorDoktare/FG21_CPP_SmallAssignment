@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02.CelsiusToFahrenheit", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.LastDigitOfNumber", "04.LastDigitOfNumber\04.LastDigitOfNumber.vcxproj", "{B59DCD70-7C85-48D2-83AA-01833084579C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06.GuessingGame", "06.GuessingGame\06.GuessingGame.vcxproj", "{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{B59DCD70-7C85-48D2-83AA-01833084579C}.Release|x64.Build.0 = Release|x64
 		{B59DCD70-7C85-48D2-83AA-01833084579C}.Release|x86.ActiveCfg = Release|Win32
 		{B59DCD70-7C85-48D2-83AA-01833084579C}.Release|x86.Build.0 = Release|Win32
+		{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}.Debug|x64.ActiveCfg = Debug|x64
+		{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}.Debug|x64.Build.0 = Debug|x64
+		{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}.Debug|x86.Build.0 = Debug|Win32
+		{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}.Release|x64.ActiveCfg = Release|x64
+		{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}.Release|x64.Build.0 = Release|x64
+		{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}.Release|x86.ActiveCfg = Release|Win32
+		{8C62A6F6-6302-4B19-8696-E6AAEC701DF2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

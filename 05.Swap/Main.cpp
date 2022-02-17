@@ -3,16 +3,16 @@ using namespace std;
 
 void SwapRef(int &a, int &b)
 {
-	int temp = a;
-	a = b;
-	b = temp;
+	a = a + b;
+	b = a - b;
+	a = a - b;
 }
 
 void SwapPoint(int* a, int* b)
 {
-	int temp = *a;
-	*a = *b;
-	*b = temp;
+	*a = *a + *b;
+	*b = *a - *b;
+	*a = *a - *b;
 }
 
 int KeyInput()
