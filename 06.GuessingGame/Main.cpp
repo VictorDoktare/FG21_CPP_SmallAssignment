@@ -11,7 +11,7 @@ int GenerateNumber()
 
 	for (int i = 0; i < 10; i++)
 	{
-		number = (rand() % 10) + 1;
+		number = (rand() % 100) + 1;
 	}
 
 	return number;

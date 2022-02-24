@@ -6,9 +6,9 @@ int FindLastDigit(int value)
 	return value % 10;
 }
 
-float KeyInput()
+int KeyInput()
 {
-	float input;
+	int input;
 	cin >> input;
 
 	return input;
@@ -29,7 +29,7 @@ bool Restart()
 	cout << "1. Restart \n";
 	cout << "2. Exit \n";
 
-	switch (static_cast<int>(KeyInput()))
+	switch ((KeyInput()))
 	{
 		bool restart;
 
